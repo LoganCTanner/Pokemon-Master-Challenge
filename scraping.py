@@ -247,4 +247,4 @@ with open('kantoRoute1.htm', 'rb') as f:
 
                 print(f'name: {name}, games: {games}, location: {location}, levels: {levels}, rate: {rate}')
 
-        print('----')``
+        print('----')
